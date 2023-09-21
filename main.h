@@ -18,6 +18,8 @@
 #define S_SHORT 1
 #define S_LONG 2
 
+int _putchar(char c);
+
 /**
  * struct fmt - Struct op...
  *
